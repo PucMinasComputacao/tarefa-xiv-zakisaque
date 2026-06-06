@@ -1,0 +1,46 @@
+{
+  "receitas": [
+    {
+      "id": "1",
+      "nome": "Brigadeiro",
+      "categoria": "Doce",
+      "tempoPreparo": 20,
+      "origem": "Brasil"
+    },
+    {
+      "id": "5",
+      "nome": "Coxinha",
+      "categoria": "Salgado",
+      "tempoPreparo": 35,
+      "origem": "Brasil"
+    },
+    {
+      "id": "6",
+      "nome": "Pudim",
+      "categoria": "Doce",
+      "tempoPreparo": 90,
+      "origem": "Brasil"
+    },
+    {
+      "id": "7",
+      "nome": "Sushi",
+      "categoria": "Japonês",
+      "tempoPreparo": 50,
+      "origem": "Japão"
+    },
+    {
+      "id": "9",
+      "nome": "Feijoada",
+      "categoria": "Brasileira",
+      "tempoPreparo": 120,
+      "origem": "Brasil"
+    },
+    {
+      "id": "10",
+      "nome": "Brownie",
+      "categoria": "Doce",
+      "tempoPreparo": 45,
+      "origem": "EUA"
+    }
+  ]
+}

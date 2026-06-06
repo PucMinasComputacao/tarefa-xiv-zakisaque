@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Estatísticas das Receitas</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>Gerenciador de Receitas</h1>
+
+        <input type="hidden" id="idReceita">
+
+        <input
+            type="text"
+            id="nome"
+            placeholder="Nome da receita"
+        >
+
+        <input
+            type="text"
+            id="categoria"
+            placeholder="Categoria"
+        >
+
+        <button onclick="salvarReceita()">
+            Salvar Receita
+        </button>
+
+        <h2>Receitas Cadastradas</h2>
+
+        <ul id="listaReceitas"></ul>
+
+        <h2>Receitas por Categoria</h2>
+
+        <canvas id="divPieChart"></canvas>
+
+    </div>
+
+    <script src="chart.js"></script>
+
+</body>
+</html>
