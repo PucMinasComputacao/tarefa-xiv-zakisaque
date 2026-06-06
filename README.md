@@ -32,14 +32,15 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Isaque de Jesus Marra
+- Matricula: 906624
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![Tela de receitas](public/img/print%201.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![Tela de receitas](public/img/print%202.png)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+![Tela de receitas](public/img/console.png)
+
 
